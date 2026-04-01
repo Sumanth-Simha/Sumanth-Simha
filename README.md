@@ -24,7 +24,7 @@ Python • C • C++ • Java
 
 ### ML & Data Science
 
-NumPy • Pandas • Scikit-learn • TensorFlow • Matplotlib
+NumPy • Pandas • Scikit-learn • TensorFlow • Matplotlib  
 
 ### AI / NLP
 
