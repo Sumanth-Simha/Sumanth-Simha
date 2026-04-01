@@ -57,7 +57,7 @@ GitHub • VS Code • Jupyter • Colab • Kaggle
 ## 📫 Connect With Me
 
 * 📧 [rsumanthsimha@gmail.com](mailto:rsumanthsimha@gmail.com)
-* 💼 LinkedIn: (add link)
+* 💼 LinkedIn: https://www.linkedin.com/in/r-sumanth-simha-50b61533a/
 
 
 ---
