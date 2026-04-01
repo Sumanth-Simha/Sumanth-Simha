@@ -48,7 +48,7 @@ GitHub • VS Code • Jupyter • Colab • Kaggle
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Simha\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Simha&show_icons=true&cache_seconds=1800)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumanth-Simha\&theme=default)
 
