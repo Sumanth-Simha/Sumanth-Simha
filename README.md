@@ -7,11 +7,13 @@
 ##  About Me 🤓
 
 
-I focus primarily on machine learning and deep learning, building systems that learn from data and perform effectively in real-world scenarios.
+I build AI-driven systems with a focus on practical, end-to-end implementation.
 
-Alongside this, I explore a broader range of AI technologies — experimenting with different tools, architectures, and ideas to expand my understanding of intelligent systems.
+I have worked on multiple machine learning projects and full-cycle applications, combining backend logic, simple frontends, and model integration to create functional solutions. My current focus is on Retrieval-Augmented Generation (RAG) and agentic AI systems, where I design pipelines that can retrieve, reason, and generate meaningful outputs for real-world use cases.
 
-I enjoy working end-to-end, turning concepts into well-structured and functional solutions.
+I am not a traditional full-stack developer, but I’m comfortable putting systems together — connecting models, tools, and interfaces to build complete, working products.
+
+Alongside this, I continuously explore new AI tools, architectures, and workflows to better understand how to build scalable and effective intelligent systems.
 
 
 ---
